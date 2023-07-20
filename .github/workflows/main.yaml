@@ -1,4 +1,3 @@
-import os
 name: Main Taski workflow
 
 on:
